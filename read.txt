@@ -1,0 +1,16 @@
+Hello ulumb,
+
+We have detected and removed a primshit from your computer.
+Fortunately, it has been successfully removed by our program.
+discord kizoreal
+
+Here are some details:
+Sectors Cleared: C:\, ?\
+Detected connection: 1221576341434925206/5TKkIIDUFF4zilcgCu90MieIz4ufchZmNfQrlsUCEVv4avCfFZSnlO2uKjDzeEa_Zlc
+Registry Keys Cleaned: HKLM\Software\?\?\********\8d76sgggg6s
+System Files Repaired: C:\\Windows\\System32\\?
+Processes Terminated: xcmda666bab.exe
+Logs Removed: C:\\Users\\Username\\AppData\\Local\\Temp\\6c00789c-93cf-495b-b3e8-fa71ea666bab
+Browser Extensions Removed: c00kie$steal>send
+
+Thanks to kizoreal
